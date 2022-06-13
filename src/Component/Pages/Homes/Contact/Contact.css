@@ -1,0 +1,33 @@
+.fonts{
+    background: url(https://i.ibb.co/p3WnDnw/7.png) left top no-repeat, url(https://i.ibb.co/ZTfq2Z3/8.png) right bottom no-repeat;
+  padding: 15px;
+  
+  
+
+
+  background-size: 120px, 120px, auto;
+}
+.back{
+    background-color: #EFF7FF;
+    padding:20px;
+}
+.contacts{
+    font-family: 'GT Walsheim Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    margin-bottom: 35px;
+    
+    
+    color: #0048FF;
+}
+
+.sends{
+    color:white;
+}
+
+.subs{
+   
+}

@@ -1,0 +1,28 @@
+
+.pro h2{
+    background: linear-gradient(90.79deg, #0048FF 30.42%, #D6008D 40.66%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+font-family: 'GT Walsheim Pro';
+font-weight: 700;
+font-size: 43px;
+}
+
+.pro p{
+    font-family: 'GT Walsheim Pro';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    /* text-align: justify; */
+}
+
+.pro a{
+    background: linear-gradient(238.41deg, #09153F 1.24%, #002BC2 57.38%);
+    border-radius: 100px;
+    width:90px;
+    padding: 10px 30px;
+    color:white;
+    text-decoration: none;
+}

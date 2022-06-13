@@ -1,0 +1,66 @@
+.nav{
+    color:#333333;
+    text-decoration: none;
+    font-size: 25px;
+    padding:12px;
+    font-weight: 600;
+   
+}
+.bg{
+    background-color: #F9F9F9;
+ 
+   
+  
+}
+
+.texts{
+    color:"white"
+}
+.sign{
+    border:2px solid #D6008D;
+    width:90%;
+    height:35%;
+    color:#333333;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 25px;
+    /* padding-top: 25px; */
+    /* margin-left:20px; */
+}
+.drops-buttons{
+   font-size: 23px;
+   padding:8px;
+   margin-top: 5px;
+   color:white;
+}
+.use{
+    color:pink;
+    text-decoration: none;
+    font-size: 23px;
+    padding:12px;
+    margin:6px;
+}
+.log{
+    padding:5px;
+    margin-top: 5px;
+}
+.topper{
+    color:white !important;
+}
+/* .carousel-design{
+    display:inline;
+    grid-template-columns: repeat(2,1fr);
+} */
+/* .styles{
+    text-align: left;
+    margin-left: -620px;
+    margin-top: 20px;
+} */
+.long{
+    background-color: #F9F9F9 !important;
+    color:white !important;
+    font-size: 22px !important;
+    font-weight: 600 !important;
+}
