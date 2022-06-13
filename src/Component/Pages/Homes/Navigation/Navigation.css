@@ -2,7 +2,7 @@
     color:#333333;
     text-decoration: none;
     font-size: 25px;
-    padding:12px;
+    padding:9px;
     font-weight: 600;
    
 }
@@ -18,13 +18,13 @@
 }
 .sign{
     border:2px solid #D6008D;
-    width:90%;
-    height:35%;
+    /* width:90%;
+    height:35%; */
     color:#333333;
     font-weight: 600;
     text-decoration: none;
     font-size: 20px;
-    padding: 10px 30px;
+    padding: 5px 5px;
     border-radius: 25px;
     /* padding-top: 25px; */
     /* margin-left:20px; */

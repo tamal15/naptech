@@ -28,25 +28,25 @@ const Navigation = () => {
                 <ul className="navbar-nav ms-auto mb-2 mb-lg-0 d-flex align-items-center">
                   <li className="nav-item">
                   
-                    <Link style={{marginRight:"50px"}} className="nav" to="">Home</Link>
+                    <Link style={{marginRight:"20px"}} className="nav" to="">Home</Link>
                   </li>
                   <li className="nav-item">
                   
-                    <Link style={{marginRight:"50px"}} className="nav" to="">About</Link>
+                    <Link style={{marginRight:"20px"}} className="nav" to="">About</Link>
                   </li>
                   <li className="nav-item">
                   
-                    <Link style={{marginRight:"50px"}} className="nav" to="">Our Services</Link>
+                    <Link style={{marginRight:"20px"}} className="nav" to="">Our Services</Link>
                   </li>
                   <li className="nav-item">
                   
-                    <Link style={{marginRight:"50px"}} className="nav" to="">Service Map</Link>
+                    <Link style={{marginRight:"20px"}} className="nav" to="">Service Map</Link>
                   </li>
 
                
 
         <li className="nav-item">
-                  <Link style={{marginRight:"50px"}} className="nav" to="">Contact Us</Link>
+                  <Link style={{marginRight:"20px"}} className="nav" to="">Contact Us</Link>
                    </li>
         <li className="nav-item">
                   <Link  style={{marginRight:""}} className="sign" to="">Sign in</Link>
